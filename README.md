@@ -55,4 +55,9 @@ pip install google-api-python-client pandas matplotlib seaborn
 
 ![Analysis Screenshot]
 <img width="1295" alt="preview" src="<img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/65a0325f-f0be-4ad1-80be-fec4ce4717d2" />
+ 
+# 🚨‼️ NOTE: 
+This doesn't work on MacOs so use windows 
+and use "streamlit run app.py" to run your file
+        
 
